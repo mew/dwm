@@ -4,3 +4,7 @@ config.def.h
 dwm
 
 *.o
+
+config.def.h.orig
+
+*.orig
