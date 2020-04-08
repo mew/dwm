@@ -8,3 +8,5 @@ dwm
 config.def.h.orig
 
 *.orig
+
+*.rej
